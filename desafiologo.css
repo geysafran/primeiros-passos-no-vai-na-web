@@ -1,0 +1,146 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#tronco{ 
+	background: url(logobackground.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Noto Sans KR', sans-serif;
+	display: flex;
+
+}
+
+
+
+#farinha {
+	display: flex;
+	margin-left: 50px;
+	margin-top: 40px;
+
+}
+
+.image {
+	width: 30px;
+	height: 30px;
+	margin: 5%
+	padding:10px;
+}
+
+h2 {
+	 color: #00008B;
+	 margin-left: 5px;
+	 font-size: 20px;
+	font-weight: 700;
+	color: ;
+}
+
+.menu {
+	width: 70%;
+}
+.menulist {
+	display: flex;
+	width: 100%;
+}
+
+.div {
+	display: flex;
+	
+}
+
+.item1 { 
+	
+	font-weight: 900;
+
+}
+
+
+.item {
+	width: 100px;
+   height: 100px;
+   line-height: 100px;
+   text-align: center;
+   background-color: none;
+   border-style: dashed;
+   border-color: blue;
+   float: right;
+   margin: 4px;
+  
+   
+   color: #fff;
+   cursor: pointer;
+   -webkit-transform:scale(0.7); 
+      -moz-transform:scale(0.7); 
+   	-o-transform:scale(0.7);
+   	   transform:scale(0.7);
+
+	font-weight: 700;
+	color: rgba(0, 0, 0, .5);
+	margin-left: 25px;
+	list-style: none;
+
+}
+
+li:hover {
+   -webkit-transform:scale(1.5); 
+      -moz-transform:scale(1.5); 
+        -o-transform:scale(1.5);
+       	   transform:scale(1);
+}
+
+
+.menu ul {
+	padding: 0;
+	margin: 0;
+}
+
+#pao {
+	    padding: 100px;
+}
+
+
+.manteiga {
+	color: #00008B;
+	font-size: 15px;
+	font-weight: 700;
+
+}
+
+h1 {
+	font-size:80px;
+	color: #00008B;
+	margin: 1px;
+	width: 40%
+}
+
+.margarina {
+	    width: 380px;
+    padding: 40px;
+    color: rgba(0, 0, 0, .6);
+}
+
+
+.botao {
+	color:#F0FFFF;
+	padding: 10px;
+	background-color: #00008B;
+	width: 10px;
+	height: 2px;
+	width: 140px;
+	height: 40px;
+	margin-left: 60px;
+}
+
+
+.signup {
+	margin-left: 10px;
+	background-color: #FF8C00;
+	color: #F0FFFF;
+	width: 119px;
+	font-weight: 900;
+	height: 30px;
+
+
+}

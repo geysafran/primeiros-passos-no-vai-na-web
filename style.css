@@ -1,0 +1,25 @@
+#infancia{
+	width: 40vw;
+	height: 30px;
+	font-family: sans-serif; 
+ 	line-height: 30px;
+  	text-align: center;
+  	font-size: 20px;
+}
+
+.ponto{ 
+	color: #A2CD5A;
+	width: 50vw;
+	font-style: italic;
+
+
+}
+
+.virgula{
+	color: #A9CD57;
+ 	font-size: 20px; 
+ 	width: 50vw;
+ 	height: 25px;
+	font-weight: bold;
+}
+

@@ -1,0 +1,61 @@
+#every {
+	display: flex;
+	padding: 70px;
+	
+}
+
+ #boxone { 
+	width: 100px;
+	height: 100px;
+	padding: 50px;
+	margin: 20x;
+	
+ 	
+ }
+    
+h1 {
+	color: blue;
+	font-size: 50px;
+
+	
+	
+}
+
+.container{
+		width: 30px;
+	height: 20px;
+	padding: 20px;
+}
+	
+
+
+p { font-size: 20px;
+font-style: italic;
+	
+}
+
+.joinit { 
+	border-weight: 5px;
+	background-color: orange;
+	color: #fff;
+	padding: 10px; 
+	margin-left: 50px;
+}
+
+#boxtwo { 
+	margin: 30px;
+	
+	
+}
+
+.img {
+  	width: 400px;
+  	height: 700px;
+	
+}
+ 
+.contact ul li {
+	list-style: none;
+
+}
+
