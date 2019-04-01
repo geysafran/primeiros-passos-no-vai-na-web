@@ -1,6 +1,7 @@
 #every {
 	display: flex;
 	padding: 70px;
+	margin:100px;
 	
 }
 
@@ -8,7 +9,7 @@
 	width: 100px;
 	height: 100px;
 	padding: 50px;
-	margin: 20x;
+	margin: 20px;
 	
  	
  }
@@ -16,8 +17,6 @@
 h1 {
 	color: blue;
 	font-size: 50px;
-
-	
 	
 }
 
@@ -29,13 +28,14 @@ h1 {
 	
 
 
-p { font-size: 20px;
+p { 
+	font-size: 20px;
 font-style: italic;
 	
 }
 
 .joinit { 
-	border-weight: 5px;
+	border-width: 5px;
 	background-color: orange;
 	color: #fff;
 	padding: 10px; 
